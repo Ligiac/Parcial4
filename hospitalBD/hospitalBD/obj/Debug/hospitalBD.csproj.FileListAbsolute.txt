@@ -1,0 +1,1 @@
+c:\users\lab3\documents\visual studio 2013\Projects\hospitalBD\hospitalBD\bin\Debug\hospitalBD.exe.config
